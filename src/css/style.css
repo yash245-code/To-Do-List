@@ -1,0 +1,7 @@
+:root{
+    --bg-clr: #222222;
+}
+
+body{
+    background-color: var(--bg-clr);
+}
